@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (grafika_.1bd50b12\x64\Debug\) contains files shared from another project (grafika_beadando1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  grafika_beadando1.vcxproj -> C:\Users\Lacko\Documents\NIora\grafika_beadando\x64\Debug\grafika_beadando2.exe
